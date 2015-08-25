@@ -1,0 +1,20 @@
+"Games"
+{
+    "zps"
+    {
+        "Offsets"
+        {
+            "ZombieTurnTime"
+            {
+                // ZPS 2.0
+                "windows"   "4992"
+                "linux"     "5068"
+            }
+            "IsCarrier"
+            {
+                "windows"   "4974"
+                "linux"     "5050"
+            }
+        }
+    }
+}
